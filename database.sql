@@ -11,7 +11,7 @@ http://sitemakers.in
 
 2) Click on "STACK DEVELOPERS" link at top navigation that will take you to Stack Developers section
 
-3) Click on "Login to Download" link to download Basic E-commerce Series in Laravel 6/7 (Part 1 to 150)
+3) Click on "Login to Download" link to download Basic E-commerce Series in Laravel 5.6/5.7/5.8 (Part 1 to 150)
 
 4) Enter Username and Password if you have already got it otherwise get one by taking below steps :-
 
